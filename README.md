@@ -22,8 +22,28 @@ fixed most bugs ..
     <li> <a href="https://twitter.com/imaginative_dev">Twitter</a></li>
     </ul>
   </div>
-
 # Screenshots
-
+# Code from chatgpt
+<div align="center">
+    <h2>js</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/javascript.png?raw=true" alt="Chocolate"/>
+</div>
+###########
+ <div align="center">
+    <h2>Html Css</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/htmlcss.png?raw=true" alt="Chocolate"/>
+</div>
+############
+ <br/>
+<div align="center">
+    <h2>Python</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/python.png?raw=true" alt="Chocolate"/>
+</div>
+############
+ <br/>
+<div align="center">
+    <h2>C++</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/cpp.png?raw=true" alt="Chocolate"/>
+</div>
 
 
