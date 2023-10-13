@@ -1,0 +1,32 @@
+{
+  "name": "DarkPlusChocolate",
+  "publisher": "moondevaa",
+  "displayName": "Dark Plus Chocolate",
+  "description": "dark theme with attarctive and Chocolate colores",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "icon": "icon.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Plus Chocolate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-chocolate-color-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
