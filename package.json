@@ -3,12 +3,15 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Chocolate",
   "description": "dark theme with attarctive and Chocolate colores",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark","brown","licorice","coffee","chocolate","hot","seal-brown","caramel","bistre-color","rust"
   ],
   "repository": {
     "type": "git",
