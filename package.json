@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Chocolate",
   "description": "dark theme with attarctive and Chocolate colores",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -11,7 +11,10 @@
     "Themes"
   ],
   "keywords": [
-    "dark","brown","licorice","coffee","chocolate","hot","seal-brown","caramel","bistre-color","rust"
+    "dark","brown","licorice","coffee","chocolate","hot","seal-brown","caramel","bistre-color","rust","beige","bisque","bistre",
+    "bole","brass","cinnamon","taupe","tan","chestnut","sand","ecru","ginger","golden","ochre","sepia","antique","burlywood",
+    "tumbleweed","tuscan","wood","deer","chamoisee","dirt","coconut","acron","bark","beeswax","bear","metal","Burnt","camel",
+    "Canvas","Chamomile","Chicory","Deep","fall","firewood","honey","heavy-brown","mars","Mojave"
   ],
   "repository": {
     "type": "git",
