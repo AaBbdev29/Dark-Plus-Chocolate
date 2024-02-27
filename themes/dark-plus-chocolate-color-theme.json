@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#f7701f"
+        "foreground": "#65B741"
       }
     },
     {
@@ -778,7 +778,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#f7c35f"
+        "foreground": "#FF7676"
       }
     },
     {
@@ -1853,7 +1853,7 @@
     "activityBar.background": "#160f0f",
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#f7eee9",
-    "activityBarBadge.background": "#b44e18",
+    "activityBarBadge.background": "#86340a",
     "activityBar.activeBackground": "#341606",
     "sideBar.background": "#160f0f",
     "sideBar.foreground": "#cccccc",
@@ -1861,11 +1861,11 @@
     "sideBarSectionHeader.foreground": "#cccccc",
     "sideBarSectionHeader.border": "#cccccc33",
     "sideBarTitle.foreground": "#bbbbbb",
-    "list.inactiveSelectionBackground": "#b44e18",
+    "list.inactiveSelectionBackground": "#86340a",
     "list.inactiveSelectionForeground": "#cccccc",
-    "list.hoverBackground": "#2a2d2e",
+    "list.hoverBackground": "#4f1f06",
     "list.hoverForeground": "#cccccc",
-    "list.activeSelectionBackground": "#b44e18",
+    "list.activeSelectionBackground": "#86340a",
     "list.activeSelectionForeground": "#ffffff",
     "tree.indentGuidesStroke": "#585858",
     "list.dropBackground": "#383b3d",
@@ -1892,13 +1892,13 @@
     "menubar.selectionForeground": "#cccccc",
     "menubar.selectionBackground": "#ffffff1a",
     "menu.foreground": "#cccccc",
-    "menu.background": "#252526",
+    "menu.background": "#221717",
     "menu.selectionForeground": "#ffffff",
-    "menu.selectionBackground": "#b44e18",
+    "menu.selectionBackground": "#86340a",
     "menu.selectionBorder": "#00000000",
     "menu.separatorBackground": "#bbbbbb",
     "menu.border": "#00000085",
-    "button.background": "#b44e18",
+    "button.background": "#86340a",
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#b07326",
     "button.secondaryForeground": "#ffffff",
@@ -2000,9 +2000,9 @@
     "tab.activeForeground": "#ffffff",
     "tab.border": "#160f0f",
     "tab.activeBackground": "#160f0f",
-    "tab.activeBorder": "#b5a642",
-    "tab.activeBorderTop": "#00000000",
-    "tab.inactiveBackground": "#2d2d2d",
+    "tab.activeBorder": "#d2bb26",
+    "tab.activeBorderTop": "#11111100",
+    "tab.inactiveBackground": "#2d1f1f",
     "tab.inactiveForeground": "#ffffff80",
     "tab.hoverBorder": "#ead9c9",
     "scrollbarSlider.background": "#79797966",
