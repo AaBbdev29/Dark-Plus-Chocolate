@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Chocolate",
   "description": "dark theme with attarctive and Chocolate colores",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -14,7 +14,8 @@
     "dark","brown","licorice","coffee","chocolate","hot","seal-brown","caramel","bistre-color","rust","beige","bisque","bistre",
     "bole","brass","cinnamon","taupe","tan","chestnut","sand","ecru","ginger","golden","ochre","sepia","antique","burlywood",
     "tumbleweed","tuscan","wood","deer","chamoisee","dirt","coconut","acron","bark","beeswax","bear","metal","Burnt","camel",
-    "Canvas","Chamomile","Chicory","Deep","fall","firewood","honey","heavy-brown","mars","Mojave"
+    "Canvas","Chamomile","Chicory","Deep","fall","firewood","honey","heavy-brown","mars","Mojave","elk","owls","mud","clay","silt",
+    "rocks","Moths","brown-bat","Cougar","Potato","Kiwi","Axinite","Orchid","Chipmunk","Dragon","Butterfly",""
   ],
   "repository": {
     "type": "git",

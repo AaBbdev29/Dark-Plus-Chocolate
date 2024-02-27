@@ -28,11 +28,6 @@ fixed most bugs ..
     <h2>js</h2>
     <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/javascript.png?raw=true" alt="Chocolate"/>
 </div>
-###########
- <div align="center">
-    <h2>Html Css</h2>
-    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/htmlcss.png?raw=true" alt="Chocolate"/>
-</div>
 ############
  <br/>
 <div align="center">
@@ -40,10 +35,7 @@ fixed most bugs ..
     <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/python.png?raw=true" alt="Chocolate"/>
 </div>
 ############
- <br/>
 <div align="center">
-    <h2>C++</h2>
-    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/cpp.png?raw=true" alt="Chocolate"/>
+    <h2>Html Css</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/htmlcss.png?raw=true" alt="Chocolate"/>
 </div>
-
-
