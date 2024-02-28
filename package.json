@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Chocolate",
   "description": "dark theme with attarctive and Chocolate colores",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -15,7 +15,15 @@
     "bole","brass","cinnamon","taupe","tan","chestnut","sand","ecru","ginger","golden","ochre","sepia","antique","burlywood",
     "tumbleweed","tuscan","wood","deer","chamoisee","dirt","coconut","acron","bark","beeswax","bear","metal","Burnt","camel",
     "Canvas","Chamomile","Chicory","Deep","fall","firewood","honey","heavy-brown","mars","Mojave","elk","owls","mud","clay","silt",
-    "rocks","Moths","brown-bat","Cougar","Potato","Kiwi","Axinite","Orchid","Chipmunk","Dragon","Butterfly",""
+    "rocks","Moths","brown-bat","Cougar","Potato","Kiwi","Axinite","Orchid","Chipmunk","Dragon","Butterfly","colorful","attarctive","zenburn","webstrome","winter","wind","vibe","universe","ultra",
+    "ultimate","ubuntu","linux","turbo","true","false","tomorrow","terminal","syntax","sweet","super","sun","Saturn","style","star","krita",
+    "soft","space","smooth","smile","laught","sky","simple","easy","silver","semantic","seti","sakura","ruby","relax","rainbow","rainglow",
+    "radial","radical","pro","professional","palette","plastic","palennight","pack","orginal","omini","official","obsidian","nice",
+    "nemo","neo","new","folder","nano","modern","minimal","mega","max","material","mangic","low","laser","just","jelly","infinity"
+    ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
+    "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
+    "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
+    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex"
   ],
   "repository": {
     "type": "git",
