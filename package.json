@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Chocolate",
   "description": "dark theme with attarctive and Chocolate colores",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "engines": {
     "vscode": "^1.78.0"
   },
