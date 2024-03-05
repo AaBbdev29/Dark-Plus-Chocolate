@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Chocolate",
   "description": "dark theme with attarctive and Chocolate colores",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -23,7 +23,10 @@
     ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
     "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
     "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
-    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex","shades","shadow","orange"
+    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex","shades","shadow","orange","c++","c","c#","Live","docker","git","ai","language","debug"
+    ,"java","icon","tag","go","beautify","dart","graph","xml","rest","rust","view","project","native","tools","todo","editor",
+    "import","format","client","book","blade","babel","data","work","monokaie","sass","compile","profile","function","method",
+    "sql","hint","doc","image","node","snap","shell","cloud","support","case","time","browser","gpt","key","duck","outpot"
   ],
   "repository": {
     "type": "git",
