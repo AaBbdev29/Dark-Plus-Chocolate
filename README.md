@@ -34,8 +34,19 @@ fixed most bugs ..
     <h2>Python</h2>
     <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/python.png?raw=true" alt="Chocolate"/>
 </div>
+
 ############
 <div align="center">
-    <h2>Html Css</h2>
+    <h2>Rust</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/rust.png?raw=true" alt="Chocolate"/>
+</div>
+############
+<div align="center">
+    <h2>Html</h2>
     <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/htmlcss.png?raw=true" alt="Chocolate"/>
+</div>
+############
+<div align="center">
+    <h2>JSON</h2>
+    <img src="https://github.com/AaBbdev29/Dark-Plus-Chocolate/blob/main/my/json.png?raw=true" alt="Chocolate"/>
 </div>
